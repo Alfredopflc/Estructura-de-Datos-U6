@@ -1,0 +1,7 @@
+C:\Users\PIMPO\source\repos\BusquedaBinaria\BusquedaBinaria\bin\Debug\BusquedaBinaria.exe.config
+C:\Users\PIMPO\source\repos\BusquedaBinaria\BusquedaBinaria\bin\Debug\BusquedaBinaria.exe
+C:\Users\PIMPO\source\repos\BusquedaBinaria\BusquedaBinaria\bin\Debug\BusquedaBinaria.pdb
+C:\Users\PIMPO\source\repos\BusquedaBinaria\BusquedaBinaria\obj\Debug\BusquedaBinaria.csprojResolveAssemblyReference.cache
+C:\Users\PIMPO\source\repos\BusquedaBinaria\BusquedaBinaria\obj\Debug\BusquedaBinaria.csproj.CoreCompileInputs.cache
+C:\Users\PIMPO\source\repos\BusquedaBinaria\BusquedaBinaria\obj\Debug\BusquedaBinaria.exe
+C:\Users\PIMPO\source\repos\BusquedaBinaria\BusquedaBinaria\obj\Debug\BusquedaBinaria.pdb
